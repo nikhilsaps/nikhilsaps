@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Nikhil Singh 👋</h1>
-<h3 align="center">Python Developer · Data & Business Analyst · Data Engineer</h3>
-<p align="center"><i>Building with Python, turning data into decisions, and currently leveling up in Kotlin & Machine Learning 🚀</i></p>
+<h1 align="center">Hi there, I'm Nikhil Singh ðŸ‘‹</h1>
+<h3 align="center">Python Developer Â· Data & Business Analyst Â· Data Engineer</h3>
+<p align="center"><i>Building with Python, turning data into decisions, and currently leveling up in Kotlin & Machine Learning ðŸš€</i></p>
 
 <p align="center">
   <a href="https://github.com/nikhilsaps"><img src="https://img.shields.io/badge/GitHub-nikhilsaps-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -10,23 +10,23 @@
 
 ---
 
-## 💫 About Me
+## ðŸ’« About Me
 
-🐍 **Python is my home language** - I build automation, data pipelines, analysis, backends, and desktop apps with it every day.
+ðŸ **Python is my home language** - I build automation, data pipelines, analysis, backends, and desktop apps with it every day.
 
-📊 I work across **data and business analysis** - turning ambiguous questions into KPIs, metrics, dashboards, and insights people can act on.
+ðŸ“Š I work across **data and business analysis** - turning ambiguous questions into KPIs, metrics, dashboards, and insights people can act on.
 
-🏗️ As a **Data Engineer** I design **ELT/ETL pipelines, data models, and governed datasets** that power cloud warehouses and BI tools.
+ðŸ—ï¸ As a **Data Engineer** I design **ELT/ETL pipelines, data models, and governed datasets** that power cloud warehouses and BI tools.
 
-📱🤖 **Right now I'm leveling up in Kotlin (Android development) and Machine Learning.**
+ðŸ“±ðŸ¤– **Right now I'm leveling up in Kotlin (Android development) and Machine Learning.**
 
-- 🌱 Currently learning: **Kotlin & Android** · **Machine Learning / Data Science**
-- 💬 Ask me about: **Python, SQL, data analysis, BI dashboards, automation, AWS**
-- ⚡ Fun fact: give me a repetitive report and I'll turn it into an automated pipeline
+- ðŸŒ± Currently learning: **Kotlin & Android** Â· **Machine Learning / Data Science**
+- ðŸ’¬ Ask me about: **Python, SQL, data analysis, BI dashboards, automation, AWS**
+- âš¡ Fun fact: give me a repetitive report and I'll turn it into an automated pipeline
 
 ---
 
-## 🎯 What I Do
+## ðŸŽ¯ What I Do
 
 | Area | How I deliver |
 |------|---------------|
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ðŸ› ï¸ Tech Stack & Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -86,6 +86,7 @@
 ![Selenium](https://img.shields.io/badge/Browser_/_DOM_Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Slack API](https://img.shields.io/badge/Slack_API-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint_Integration-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 
 ### Web Frameworks & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -94,7 +95,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🌱 Currently Learning
+### ðŸŒ± Currently Learning
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -103,13 +104,13 @@
 
 ---
 
-## 💡 Core Strengths
+## ðŸ’¡ Core Strengths
 
-`Python` · `SQL & Query Optimization` · `Data Analysis & EDA` · `KPI & Metric Design` · `Dashboard Development` · `ELT / ETL Pipelines` · `Data Modeling & Warehousing` · `Workflow Automation & RPA` · `Data Governance` · `Stakeholder Communication`
+`Python` Â· `SQL & Query Optimization` Â· `Data Analysis & EDA` Â· `KPI & Metric Design` Â· `Dashboard Development` Â· `ELT / ETL Pipelines` Â· `Data Modeling & Warehousing` Â· `Workflow Automation & RPA` Â· `Data Governance` Â· `Stakeholder Communication`
 
 ---
 
-## 📊 GitHub Stats
+## ðŸ“Š GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhilsaps&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="stats" />
@@ -121,13 +122,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsaps&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="top langs" />
 </p>
 
-## 🏆 GitHub Trophies
+## ðŸ† GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nikhilsaps&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophies" />
 </p>
 
-## 📈 Contribution Activity
+## ðŸ“ˆ Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsaps&theme=dracula&hide_border=false" alt="activity graph" />
@@ -135,7 +136,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## ðŸŒ Connect With Me
 
 <p align="center">
   <a href="https://github.com/nikhilsaps"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -143,4 +144,4 @@
   <a href="https://instagram.com/nikhilsaps"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<p align="center"><i>⭐ Open to collaborating on Python, data, and Android/ML open-source projects!</i></p>
+<p align="center"><i>â­ Open to collaborating on Python, data, and Android/ML open-source projects!</i></p>
