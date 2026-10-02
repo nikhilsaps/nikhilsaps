@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nikhil Singh 👋</h1>
-<h3 align="center">Python Developer · Data & Business Analyst · Program Manager · Data Engineer</h3>
+<h3 align="center">Python Developer · Data & Business Analyst · Data Engineer</h3>
 <p align="center"><i>Building with Python, turning data into decisions, and currently leveling up in Kotlin & Machine Learning 🚀</i></p>
 
 <p align="center">
@@ -12,11 +12,9 @@
 
 ## 💫 About Me
 
-🐍 **Python is my home language** - I build automation, data pipelines, analysis, and backends with it every day.
+🐍 **Python is my home language** - I build automation, data pipelines, analysis, backends, and desktop apps with it every day.
 
 📊 I work across **data and business analysis** - turning ambiguous questions into KPIs, metrics, dashboards, and insights people can act on.
-
-🗂️ As a **Program Manager** I drive cross-functional delivery: gathering requirements, planning, and shipping data products end to end.
 
 🏗️ As a **Data Engineer** I design **ELT/ETL pipelines, data models, and governed datasets** that power cloud warehouses and BI tools.
 
@@ -32,12 +30,12 @@
 
 | Area | How I deliver |
 |------|---------------|
-| **Python Development** | Automation, data tooling, backends, desktop apps, and scripts for everything |
+| **Python Development** | Automation, data tooling, backends, desktop GUI apps, and scripts for everything |
 | **Data & Business Analysis** | Exploratory analysis, KPI & metric design, statistical analysis, insight storytelling |
-| **Program Management** | Requirement gathering, cross-functional delivery, planning, stakeholder communication |
 | **Data Engineering** | ELT/ETL pipeline design, data modeling, warehousing, query optimization, data governance |
-| **Business Intelligence** | Interactive dashboards, self-service analytics, executive reporting |
-| **Automation** | Python workflows that replace manual reporting and data wrangling end to end |
+| **Business Intelligence** | Interactive dashboards, self-service analytics, real-time monitoring & reporting |
+| **Automation & RPA** | Python workflows and bots that replace manual reporting and data wrangling end to end |
+| **Full-Stack & Cloud** | Serverless apps on AWS with Python back-ends and modern front-ends |
 
 ---
 
@@ -49,14 +47,18 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Data, Analytics & BI
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![QuickSight](https://img.shields.io/badge/Amazon_QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Lucene](https://img.shields.io/badge/Lucene_Query-C71A36?style=for-the-badge&logo=apache&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel_/_VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### Databases & Warehouses
@@ -67,10 +69,25 @@
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Cloud & Frameworks
+### Cloud (AWS)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-A166FF?style=for-the-badge&logo=amazoncloudfront&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
+
+### Automation, RPA & Desktop
+![PySide6](https://img.shields.io/badge/PySide6_/_Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![PyWebView](https://img.shields.io/badge/PyWebView-2C2D72?style=for-the-badge&logo=python&logoColor=white)
+![NiceGUI](https://img.shields.io/badge/NiceGUI-00B4AB?style=for-the-badge&logo=python&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-25A162?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Browser_/_DOM_Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Slack API](https://img.shields.io/badge/Slack_API-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+### Web Frameworks & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -88,7 +105,7 @@
 
 ## 💡 Core Strengths
 
-`Python` · `SQL & Query Optimization` · `Data Analysis & EDA` · `KPI & Metric Design` · `Dashboard Development` · `ELT / ETL Pipelines` · `Data Modeling & Warehousing` · `Program & Stakeholder Management` · `Workflow Automation` · `Data Governance`
+`Python` · `SQL & Query Optimization` · `Data Analysis & EDA` · `KPI & Metric Design` · `Dashboard Development` · `ELT / ETL Pipelines` · `Data Modeling & Warehousing` · `Workflow Automation & RPA` · `Data Governance` · `Stakeholder Communication`
 
 ---
 
