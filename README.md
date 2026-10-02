@@ -122,18 +122,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsaps&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="top langs" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilsaps&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophies" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsaps&theme=dracula&hide_border=false" alt="activity graph" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
